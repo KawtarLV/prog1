@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A223AD5A-DE61-4F07-A124-FD43ADECCF2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.assignment3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.assignment4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.assignment2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assignment5/Program.cs">
+    <Files>
+      <File FileName="assignment1/Program.cs" Line="7" Column="1" />
+      <File FileName="assignment1/Rectangle.cs" Line="22" Column="40" />
+      <File FileName="assignment2/Program.cs" Line="38" Column="1" />
+      <File FileName="assignment3/Program.cs" Line="7" Column="2" />
+      <File FileName="assignment4/Program.cs" Line="7" Column="1" />
+      <File FileName="assignment4/Book.cs" Line="23" Column="1" />
+      <File FileName="assignment5/Program.cs" Line="11" Column="6" />
+      <File FileName="assignment2/Day.cs" Line="12" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="programmin1-week5" expanded="True">
+            <Node name="assignment5">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
